@@ -1,0 +1,52 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ h1 { color: black; font-family:"HelveticaNeue BlackCond", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 48pt; }
+ h2 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 20.5pt; }
+ .s1 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; }
+ .s2 { color: black; font-family:Perpetua, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 19.5pt; }
+ h3 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .s3 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+ .s4 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .a, a { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s5 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+ .p, p { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; margin:0pt; }
+ .s6 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s7 { color: black; font-family:FreeSans, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s8 { color: black; font-family:"Book Antiqua", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s9 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 4pt; }
+ .s10 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s11 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ h4 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s12 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s13 { color: black; font-family:"Trebuchet MS", sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s14 { color: black; font-family:Georgia, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s15 { color: black; font-family:"Lucida Sans Unicode", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s16 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s17 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s18 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: -1pt; }
+ .s19 { color: black; font-family:Tahoma, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 3pt; }
+ .s20 { color: black; font-family:Tahoma, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s21 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 7pt; vertical-align: 3pt; }
+ .s22 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s23 { color: black; font-family:"Trebuchet MS", sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s25 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: -4pt; }
+ .s26 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s27 { color: black; font-family:FreeSans, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 2pt; }
+ .s28 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 2pt; }
+ .s29 { color: black; font-family:"Book Antiqua", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: -5pt; }
+ .s30 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 11pt; vertical-align: 2pt; }
+ .s31 { color: black; font-family:FreeSans, sans-serif; font-style: italic; font-weight: normal; text-decoration: underline; font-size: 11pt; vertical-align: 2pt; }
+ .s32 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: underline; font-size: 8pt; }
+ .s33 { color: black; font-family:"Lucida Sans Unicode", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s34 { color: black; font-family:Georgia, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s35 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+ .s36 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s37 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
+ .s38 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s39 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 4pt; }
+ .s41 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -4pt; }
+ .s42 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 4pt; }
+ .s43 { color: #FFF; font-family:Milpics; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s44 { color: #FFF; font-family:Calibri, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s45 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s46 { color: black; font-family:"Trebuchet MS", sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
